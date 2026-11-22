@@ -1,0 +1,8 @@
+checkpoints/
+run/
+*.pt
+*.npy
+*.csv
+Events/
+__pycache__/
+.ipynb_checkpoints/
